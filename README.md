@@ -7,6 +7,9 @@ Scripts based on d3noob's tutorial book
 
 > Get the book (for free or donation) [here](https://leanpub.com/D3-Tips-and-Tricks).
 
+## Version
+I downloaded d3 v4.2.6. Get it [here](https://github.com/d3/d3/releases).
+
 ## Goals
 My goal is to use the book to make four basic charts in three iterations:
 
