@@ -37,8 +37,8 @@ d3.csv("data/data.csv", function(error, data){// load the data
         d.close = +d.close; // + forces d to be interpreted as a number
     })
 
-    // scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.date; }));
+    // scale the data (map to an appropriate point given the size of the screen
+    x.domain(d3.extent(data, function(d) { return d.date; })); // d3.extent grabs the min and max of the data
     y.domain([0,d3.max(data, function(d) { return d.close; })]);
 
     svg.append("path")
