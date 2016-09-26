@@ -17,9 +17,9 @@ My goal is to use the book to make four basic charts in three iterations:
 
 **Line Chart**
 
-:white_check_mark: Simple
+:white_check_mark: [Simple] (https://github.com/ayrenay/d3-tips-and-tricks/tree/master/line-charts/simple-line-chart)
 
-:white_medium_square: Clean
+:white_check_mark: [Clean] (https://github.com/ayrenay/d3-tips-and-tricks/tree/master/line-charts/clean-line-chart)
 
 :white_medium_square: Interactive
 
